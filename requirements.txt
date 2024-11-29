@@ -1,0 +1,6 @@
+discord.js 
+dotenv
+date-fns-tz
+date-fns
+node-fetch
+sharp 
