@@ -1,0 +1,9 @@
+{
+    "TicketHolders": {
+        "Users": {},
+        "LotteryInfo": {
+            "Prize": null,
+            "AutoStartTime": "18:00"
+        }
+    }
+}
