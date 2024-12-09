@@ -1,13 +1,4 @@
-import {
-    Client,
-    GatewayIntentBits,
-    Partials,
-    REST,
-    Routes,
-    Collection,
-    ChannelType,
-    DiscordAPIError,
-} from 'discord.js';
+import { Client, GatewayIntentBits, Partials, REST, Routes, Collection, ChannelType, DiscordAPIError,} from 'discord.js';
 import { config } from 'dotenv';
 import { fileURLToPath, pathToFileURL } from 'url';
 import fs from 'fs';

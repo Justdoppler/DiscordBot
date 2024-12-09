@@ -3,3 +3,4 @@ dotenv
 date-fns-tz
 date-fns
 node-fetch
+sharp
